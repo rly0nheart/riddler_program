@@ -1,3 +1,2 @@
 # r1ddl3r-program
-A simple riddler program written in python. 
-Still under development
+A command line based riddle program, written in python. 
