@@ -1,4 +1,4 @@
-# main.py
+# main
 A command line based riddle program, written in python. 
 
 
