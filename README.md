@@ -6,7 +6,7 @@ A command line based riddle program, written in python.
 # Installation
 Clone this repo:
 * git clone https://github.com/rlyonheart/riddler_program
-* cd r1ddl3r-program
+* cd riddler_program
 * pip3 install -r REQUIREMENTS
 
 # Usage
